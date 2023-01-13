@@ -4,13 +4,16 @@
 A simple todo app built using HTML, CSS, and JavaScript. The app utilizes local storage to save todos, so they will persist even after the user closes the browser.
 
 
+## Live App URL
+
+https://shubhamdarwante2301.github.io/cn_todolist_project/
+
+
 ## Getting Started
 
 1. Clone or download the repository
 2. Open the index.html file in your browser
 3. Start adding todos and see them saved in your browser's local storage
-
-
 
 ## Features
 
