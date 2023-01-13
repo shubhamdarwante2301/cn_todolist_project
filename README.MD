@@ -27,5 +27,5 @@ A simple todo app built using HTML, CSS, and JavaScript. The app utilizes local 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/shubhamdarwante2301/cn_todolist_project/blob/main/images/todo%20app%20image.PNG)
+![todo app image](https://user-images.githubusercontent.com/79241232/212288267-37806838-62ce-408e-bb7c-bfd16ffcfc7c.PNG)
 
